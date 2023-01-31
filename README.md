@@ -1,2 +1,2 @@
 # threejs-simple-cube
-cUbe
+sPinNy cUbe
